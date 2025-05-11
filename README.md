@@ -13,7 +13,7 @@ It uses **TensorFlow/Keras** for model training and **Gradio** for a user-friend
 ## 🚀 Demo
 Upload a brain MRI image to the interface, and the model will predict the type of tumor.
 
-![Demo Screenshot](demo_screenshot.png) <!-- Optional: Add screenshot if available -->
+![Demo Screenshot]([demo_screenshot.png](https://github.com/121013jesi/Brain_Tumor_classification_detection/blob/main/demo_screenshort.png)) <!-- Optional: Add screenshot if available -->
 
 ---
 
